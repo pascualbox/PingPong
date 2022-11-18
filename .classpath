@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/BerlinClock"/>
+	<classpathentry kind="src" path="src/Bingo"/>
+	<classpathentry kind="src" path="src/Connect4"/>
+	<classpathentry kind="src" path="src/FizzBuzz"/>
+	<classpathentry kind="src" path="src/RockPaperScissors"/>
+	<classpathentry kind="src" path="src/RomanNumerals"/>
+	<classpathentry kind="src" path="src/SnakesAndLadders"/>
+	<classpathentry kind="src" path="src/Tamagotchi"/>
+	<classpathentry kind="src" path="src/Tennis"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
